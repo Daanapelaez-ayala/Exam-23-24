@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family:"Montserrat", sans-serif, "Nunito Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000000;
+    text-align: left;
+    background-color: #ffffff; }
+
+    .bg-gradiant {
+        background: rgb(246, 246, 248);
+    background: radial-gradient(circle, rgb(194, 207, 241) 0%, rgb(176, 214, 236) 39%, rgb(12, 105, 212) 100%);
+    }
+    .navbar {
+        background: #F5F5F5
+    }
+    
+    body {
+        background-image: url('background.jpg');
+      }
+      h1 {
+        float: center;
+      }
+      .clock {
+        float:  right;
+      }
+     
